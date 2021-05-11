@@ -12,7 +12,7 @@
   <Identity
     Name="26772S.T.Soft.Python-UWP"
     Publisher="CN=37F35C6E-4559-4E3B-A6CC-40CDF482AB91"
-    Version="1.0.6.0" />
+    Version="1.0.7.0" />
 
   <Properties>
     <DisplayName>Python-UWP サンプルアプリ</DisplayName>
